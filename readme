@@ -1,0 +1,12 @@
+C:\Users\VIJETA\PycharmProjects\Automation\data.xlsx
+
+C:\PROJECTS\Chhoti_Automation\data.xlsx
+
+C:\Users\VIJETA\PycharmProjects\Automation\data_comparator.py
+
+C:\Program Files\Python35\Scripts\pyinstaller.exe --windowed data_comparator.py
+
+C:\Program Files\Python35\Scripts\pyinstaller.exe --onefile --windowed data_comparator.py
+
+=======WORKING========
+C:\Users\VIJETA\PycharmProjects\Automation>"C:\Program Files\Python35\python.exe" "C:\Program Files\Python35\Scripts\pyinstaller-script.py" data_comparator.py
